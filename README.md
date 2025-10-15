@@ -57,8 +57,7 @@ Calculation:
 Open circuit characteristics
 ![circuit](https://github.com/user-attachments/assets/0ae22501-3708-4753-af96-b019cecfd086)
 
-  
-Load Characteristics:
+  Load Characteristics:
  
 ![load characterstics](https://github.com/user-attachments/assets/b2d300b0-cc00-46f6-a8ee-b5616b5f04a2)
 Result:
